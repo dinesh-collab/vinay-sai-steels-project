@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dinesh-collab/vinay-sai-steels-project/static/css/main.e6c13ad2.css",
+    "main.js": "/dinesh-collab/vinay-sai-steels-project/static/js/main.e919c56a.js",
+    "static/js/453.1ad52df9.chunk.js": "/dinesh-collab/vinay-sai-steels-project/static/js/453.1ad52df9.chunk.js",
+    "index.html": "/dinesh-collab/vinay-sai-steels-project/index.html",
+    "main.e6c13ad2.css.map": "/dinesh-collab/vinay-sai-steels-project/static/css/main.e6c13ad2.css.map",
+    "main.e919c56a.js.map": "/dinesh-collab/vinay-sai-steels-project/static/js/main.e919c56a.js.map",
+    "453.1ad52df9.chunk.js.map": "/dinesh-collab/vinay-sai-steels-project/static/js/453.1ad52df9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e919c56a.js"
+  ]
+}
