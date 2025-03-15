@@ -2,7 +2,7 @@
   "name": "vinay-sai-steels",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/dinesh-collab/vinay-sai-steels-project",
+   "homepage": "https://dinesh-collab.github.io/vinay-sai-steels-project/",
   "dependencies": {
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
